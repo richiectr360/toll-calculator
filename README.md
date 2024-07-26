@@ -1,5 +1,3 @@
-# toll-calculator
-
 # Tolling System
 
 ## Project Overview

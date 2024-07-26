@@ -1,0 +1,3 @@
+bin
+# just to make sure there is no random data folder floating around in the root.
+data
